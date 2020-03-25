@@ -7,8 +7,8 @@ ACCOUNT_SID = ""
 AUTH_TOKEN = ""
 
 # make sure to use format with +1 for USA #s. E.G +12463338910
-TO_PHONE = "+12897956884"
-FROM_PHONE = "+13343266983"
+TO_PHONE = ""
+FROM_PHONE = ""
 
 # text message to send with photo
 TXT_MSG = "Motion Detected!"
